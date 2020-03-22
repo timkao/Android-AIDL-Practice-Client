@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Happy WFH</string>
+    <string name="btnBind">Bind</string>
 </resources>
