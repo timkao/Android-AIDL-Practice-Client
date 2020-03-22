@@ -1,5 +1,5 @@
 // ICommon.aidl
-package android.bignerdranch.happywfh;
+package android.bignerdranch.timkaoaidlserver;
 
 // Declare any non-default types here with import statements
 
